@@ -1,16 +1,16 @@
-### Hi there 👋
+<img  src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*e3jNfHQGTe7f7ptGpa74yA.png" align="center"/>
 
-<!--
-**Reuben357/Reuben357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hi there, I'm Gathii </h1>
+<h3 align="center">A passionate Digital Craftsman (Android and Web)</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Jetpack Compose with Kotlin for Android App Development
+- 👯 I’m looking to collaborate on more open-source projects
+- 💬 Ask me about Android
+- 📫 How to reach me: gathiireuben@gmail.com
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Reuben357&show_icons=true&theme=merko" align="left"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reuben357&layout=compact" align="left"/>
+
+  [![Gathii's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Gathii)](https://github.com/anuraghazra/github-readme-stats)
+
