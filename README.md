@@ -12,5 +12,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Reuben357&show_icons=true&theme=merko" align="left"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reuben357&layout=compact" align="left"/>
 
-  [![Gathii's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Gathii)](https://github.com/anuraghazra/github-readme-stats)
 
